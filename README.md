@@ -2,5 +2,5 @@
 
 ## hi
 
-My name is Adam chmelauskas
+**My name is Adam Chmelauskas**
 
