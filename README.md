@@ -4,7 +4,7 @@
 
 **drafting dictionary**
 
-Acronym | Long Form
+**Acronym** | **Long Form**
 ------- | ---------
 Ansi    | American National Standards Institute.
 CAD     | Computer Aided Drafting
